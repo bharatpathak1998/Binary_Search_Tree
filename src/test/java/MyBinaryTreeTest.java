@@ -5,7 +5,6 @@ public class MyBinaryTreeTest {
 
     @Test
     public void given3NumbersWhenAddedToBinaryTreeShouldReturnSize() {
-
         BinaryTree<Integer> BinaryTree = new BinaryTree<>();
         BinaryTree.add(56);
         BinaryTree.add(30);
